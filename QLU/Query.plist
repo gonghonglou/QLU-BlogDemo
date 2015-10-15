@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/精通iOS开发（第6版）.png</string>
+		<key>title</key>
+		<string>精通iOS开发（第6版）</string>
+		<key>author</key>
+		<string>Jack Nutting、Fredrik Olsson </string>
+		<key>publish</key>
+		<string>人民邮电出版社</string>
+		<key>number</key>
+		<string>TN234\233</string>
+		<key>place</key>
+		<string>一线书库</string>
+		<key>desc</key>
+		<string>《精通iOS开发(第6版)》是iOS应用开发基础教程，内容翔实，语言生动。作者结合大量实例，循序渐进地讲解了适用于iPhone/iPad开发的基本流程。新版介绍强大的iOS 7操作系统，涵盖Xcode 4以来的新功能，书中所有案例全部重新编写。
+《精通iOS开发(第6版)》具有较强通用性，iOS发新手可通过本书快速入门进阶，经验丰富的iOS开发人员也能从中找到令人耳目一新的内容。</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS与OSX多线程和内存管理.png</string>
+		<key>title</key>
+		<string>Objective-C高级编程:iOS与OS X多线程和内存管理</string>
+		<key>author</key>
+		<string>坂本一树、古本智彦</string>
+		<key>publish</key>
+		<string>人民邮电出版社</string>
+		<key>number</key>
+		<string>TN233\222</string>
+		<key>place</key>
+		<string>一线书库</string>
+		<key>desc</key>
+		<string>《Objective-C高级编程：iOS与OS X多线程和内存管理》在苹果公司公开的源代码基础上，深入剖析了对应用于内存管理的ARC以及应用于多线程开发的Blocks和GCD。这些新技术看似简单，实则非常容易成为技术开发的陷阱，开发者仅靠阅读苹果公司的文档是不够的。
+　　《Objective-C高级编程：iOS与OS X多线程和内存管理》适合有一定基础的iOS开发者阅读。</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS网络高级编程.png</string>
+		<key>title</key>
+		<string>iOS网络高级编程:iPhone和iPad的企业应用开发</string>
+		<key>author</key>
+		<string>考克斯 、琼斯</string>
+		<key>publish</key>
+		<string>清华大学出版社</string>
+		<key>number</key>
+		<string>TN255\245</string>
+		<key>place</key>
+		<string>二线书库</string>
+		<key>desc</key>
+		<string>无</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS高级编程.png</string>
+		<key>title</key>
+		<string>iOS 高级编程</string>
+		<key>author</key>
+		<string>范德普特, 李军 (译者)</string>
+		<key>publish</key>
+		<string>清华大学出版社</string>
+		<key>number</key>
+		<string>TN232\233</string>
+		<key>place</key>
+		<string>第一馆藏库</string>
+		<key>desc</key>
+		<string>《移动开发经典丛书:iOS 高级编程》内容简介：向下一代iOS应用开发前进，你准备好了吗？伴随着应用的下载量超过5百万，而且这一数字仍在增长，应用开发可以说是获利颇丰，但是你必须能够脱颖而出。为此，你的应用需要集成高级功能。通过利用可用的iOS框架，使用现代的Objective-C编程规则的方式，《移动开发经典丛书:iOS 高级编程》将逐步引导你创建高级iOS应用。贯穿全部章节，你将发现70个贴合实际的示例程序，你可以下载这些示例并以此为起点。使用本指南，你将能够创建最前沿的应用，并为发布到App Store做好准备。</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS测试指南.png</string>
+		<key>title</key>
+		<string>iOS测试指南</string>
+		<key>author</key>
+		<string>芈峮</string>
+		<key>publish</key>
+		<string>电子工业出版社</string>
+		<key>number</key>
+		<string>TN233\232</string>
+		<key>place</key>
+		<string>一线书库</string>
+		<key>desc</key>
+		<string>《iOS 测试指南》是一本专注于 iOS 测试领域的书。其中重点讲述了各个测试阶段的具体实践方法,并且通过持续集成串联了各个测试阶段的活动。《iOS 测试指南》中所有的测试实践并非纸上谈兵,而是出自于笔者实际工作中的探索和实践。在测试实例上有一定的简化,是为了脱离复杂的业务。《iOS 测试指南》的重点在于对方法的介绍。</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS设计模式解析.png</string>
+		<key>title</key>
+		<string>Objective-C编程之道:iOS设计模式解析</string>
+		<key>author</key>
+		<string>钟冠贤, 刘威 (译者)</string>
+		<key>publish</key>
+		<string>人民邮电出版社</string>
+		<key>number</key>
+		<string>TN234\233</string>
+		<key>place</key>
+		<string>一线书库</string>
+		<key>desc</key>
+		<string>《Objective-C编程之道:iOS设计模式解析》是基于iOS的软件开发指南。书中应用GoF的经典设计模式，介绍了如何在代码中应用创建型模式、结构型模式和行为模式，如何设计模式以巩固应用程序，并通过设计模式实例介绍MVC在CocoaTouch框架中的工作方式。
+《Objective-C编程之道:iOS设计模式解析》适用于那些已经具备Objective-C基础、想利用设计模式来提高软件开发效率的中高级iOS开发人员。</string>
+	</dict>
+</array>
+</plist>

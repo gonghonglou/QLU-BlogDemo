@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>网络信息技术</string>
+		<key>time</key>
+		<string>(2015-06-03) 13:30-15:30</string>
+		<key>room</key>
+		<string>1号公教楼302</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>数字信号处理（信控）</string>
+		<key>time</key>
+		<string>(2015-06-23) 9:00-11:00</string>
+		<key>room</key>
+		<string>机电楼B125</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>文献检索</string>
+		<key>time</key>
+		<string>(2015-06-29) 13:30-15:30</string>
+		<key>room</key>
+		<string>1号公教楼202</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>多媒体技术	</string>
+		<key>time</key>
+		<string>(2015-06-30) 13:30-15:30</string>
+		<key>room</key>
+		<string>2号公教楼JT102	</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>通信原理</string>
+		<key>time</key>
+		<string>(2015-07-01) 13:30-15:30</string>
+		<key>room</key>
+		<string>1号公教楼JT202</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>信息理论与编码Ⅰ</string>
+		<key>time</key>
+		<string>2015年07月11日(14:00-16:00)</string>
+		<key>room</key>
+		<string>1号公教楼JT104</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/精通iOS开发（第6版）.png</string>
+		<key>title</key>
+		<string>精通iOS开发（第6版）</string>
+		<key>author</key>
+		<string>Jack Nutting、Fredrik Olsson </string>
+		<key>publish</key>
+		<string>人民邮电出版社</string>
+		<key>number</key>
+		<string>TN234\233</string>
+		<key>place</key>
+		<string>一线书库</string>
+		<key>time</key>
+		<string>2015年9月20日</string>
+		<key>bill</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS与OSX多线程和内存管理.png</string>
+		<key>title</key>
+		<string>Objective-C高级编程:iOS与OS X多线程和内存管理</string>
+		<key>author</key>
+		<string>坂本一树、古本智彦</string>
+		<key>publish</key>
+		<string>人民邮电出版社</string>
+		<key>number</key>
+		<string>TN233\222</string>
+		<key>place</key>
+		<string>一线书库</string>
+		<key>time</key>
+		<string>2015年9月1日</string>
+		<key>bill</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS网络高级编程.png</string>
+		<key>title</key>
+		<string>iOS网络高级编程:iPhone和iPad的企业应用开发</string>
+		<key>author</key>
+		<string>考克斯 、琼斯</string>
+		<key>publish</key>
+		<string>清华大学出版社</string>
+		<key>number</key>
+		<string>TN255\245</string>
+		<key>place</key>
+		<string>二线书库</string>
+		<key>time</key>
+		<string>2015年7月20号</string>
+		<key>bill</key>
+		<string>2.5元</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS高级编程.png</string>
+		<key>title</key>
+		<string>iOS 高级编程</string>
+		<key>author</key>
+		<string>范德普特, 李军 (译者)</string>
+		<key>publish</key>
+		<string>清华大学出版社</string>
+		<key>number</key>
+		<string>TN232\233</string>
+		<key>place</key>
+		<string>第一馆藏库</string>
+		<key>time</key>
+		<string>2015年7月20号</string>
+		<key>bill</key>
+		<string>2.5元</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS测试指南.png</string>
+		<key>title</key>
+		<string>iOS测试指南</string>
+		<key>author</key>
+		<string>芈峮</string>
+		<key>publish</key>
+		<string>电子工业出版社</string>
+		<key>number</key>
+		<string>TN233\232</string>
+		<key>place</key>
+		<string>一线书库</string>
+		<key>time</key>
+		<string>2015年7月10号</string>
+		<key>bill</key>
+		<string>3.5元</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>http://7xn9bi.com1.z0.glb.clouddn.com/iOS设计模式解析.png</string>
+		<key>title</key>
+		<string>Objective-C编程之道:iOS设计模式解析</string>
+		<key>author</key>
+		<string>钟冠贤, 刘威 (译者)</string>
+		<key>publish</key>
+		<string>人民邮电出版社</string>
+		<key>number</key>
+		<string>TN234\233</string>
+		<key>place</key>
+		<string>一线书库</string>
+		<key>time</key>
+		<string>2015年7月10号</string>
+		<key>bill</key>
+		<string>3.5元</string>
+	</dict>
+</array>
+</plist>
