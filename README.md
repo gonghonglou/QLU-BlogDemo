@@ -12,6 +12,6 @@
 
 ![](http://7xn9bi.com1.z0.glb.clouddn.com/app.png)
 
-####简书地址：[与佳期](http://www.jianshu.com/users/d0b2491c9043/latest_articles)
-####有兴趣的话欢迎关注我的微博：[期兮夕张](http://www.weibo.com/3126314295/profile?rightmod=1&wvr=6&mod=personinfo)
+####文章简书地址：[与佳期](http://www.jianshu.com/users/d0b2491c9043/latest_articles)
+####我的微博：[期兮夕张](http://www.weibo.com/3126314295/profile?rightmod=1&wvr=6&mod=personinfo)
 
